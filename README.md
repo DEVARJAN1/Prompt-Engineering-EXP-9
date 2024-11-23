@@ -126,3 +126,5 @@ To explore and understand the various prompting techniques used for generating v
 | **Prompt with Different Style**    | "Cartoon dogs in the park", "A cartoon yellow flower" | By specifying a cartoon style, this prompt alters the artistic representation of the scene, making it less realistic and more playful or exaggerated. |
 ``
 
+## Result;
+Successfully, explored the various prompting techniques used for generating videos through AI models. The goal is to demonstrate how different prompt structures, such as simple vs. detailed prompts, affect the quality, coherence, and style of the generated videos.
