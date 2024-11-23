@@ -1,4 +1,4 @@
-Here is the converted content of the second PDF file in Markdown format:
+
 
 
 # Experiment 9: Exploration of Prompting Techniques for Video Generation
